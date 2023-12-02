@@ -1,12 +1,12 @@
 
-import mongoose from "mongoose";
-const {Schema} = mongoose;
+let mongoose = require("mongoose");
+const { Schema } = mongoose;
 
 const plantsSchema = new Schema({
     name: {
         type: String,   // Or just    name: String,
         required: true
-    },   
+    },
     image: {
         type: String
     },
@@ -15,15 +15,30 @@ const plantsSchema = new Schema({
     },
     plantCategory: {
         type: String,
-        enum: ['interior', 'exterior', 'decorativa'], 
+        enum: ['interior', 'exterior', 'decorativa'],
     },
-    description: { 
-        type: String 
-    }, 
-    sunlight: { 
+    description: {
+        type: String
+    },
+    sunlight: {
         type: String,
-        enum: ['sol', 'sombra partial', 'sombra'],
-    }, 
+        enum: ['sol', 'sombra parcial', 'sombra'],
+    },
+    plantsCategory: {
+        type: Schema.Types.ObjectId,
+        ref: 'PlantsCategoryModel',
+        
+    },
+    WateringModel: {
+        type: Schema.Types.ObjectId,
+        ref: 'WateringModel',
+       
+    },
+    CarefulLevel: {
+        type: Schema.Types.ObjectId,
+        ref: 'CarefulLevelModel',
+        
+    },
 });
 
 const PlantsModel = mongoose.model('PlantsModel', plantsSchema);

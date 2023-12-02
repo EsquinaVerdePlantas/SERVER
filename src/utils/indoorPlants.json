@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Pothos",
+        "image": "URL_de_imagen_1",
+        "price": 12.99,
+        "plantCategory": "interior",
+        "description": "Popular y fácil de cuidar.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Ficus Elastica",
+        "image": "URL_de_imagen_2",
+        "price": 24.99,
+        "plantCategory": "interior",
+        "description": "Conocido como árbol de caucho, necesita luz indirecta.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Calathea Orbifolia",
+        "image": "URL_de_imagen_3",
+        "price": 18.50,
+        "plantCategory": "interior",
+        "description": "Con patrones decorativos en sus hojas.",
+        "sunlight": "sombra"
+    },
+    {
+        "name": "Snake Plant",
+        "image": "URL_de_imagen_4",
+        "price": 15.00,
+        "plantCategory": "interior",
+        "description": "Resistente y puede tolerar condiciones de poca luz.",
+        "sunlight": "sombra"
+    },
+    {
+        "name": "ZZ Plant",
+        "image": "URL_de_imagen_5",
+        "price": 20.00,
+        "plantCategory": "interior",
+        "description": "Requiere poca agua y luz indirecta.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Monstera Deliciosa",
+        "image": "URL_de_imagen_6",
+        "price": 30.00,
+        "plantCategory": "interior",
+        "description": "Conocida como \"costilla de Adán\".",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Aloe Vera",
+        "image": "URL_de_imagen_7",
+        "price": 9.99,
+        "plantCategory": "interior",
+        "description": "Planta suculenta con propiedades medicinales.",
+        "sunlight": "sol"
+    },
+    {
+        "name": "Peace Lily",
+        "image": "URL_de_imagen_8",
+        "price": 16.50,
+        "plantCategory": "interior",
+        "description": "Florece en condiciones de poca luz.",
+        "sunlight": "sombra"
+    },
+    {
+        "name": "Spider Plant",
+        "image": "URL_de_imagen_9",
+        "price": 11.00,
+        "plantCategory": "interior",
+        "description": "Fácil de cuidar y produce bebés araña.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Rubber Plant",
+        "image": "URL_de_imagen_10",
+        "price": 22.00,
+        "plantCategory": "interior",
+        "description": "Necesita luz brillante pero no luz solar directa.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Dracaena Marginata",
+        "image": "URL_de_imagen_11",
+        "price": 19.99,
+        "plantCategory": "interior",
+        "description": "Conocida como la \"margen de la caña de maíz\".",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Philodendron",
+        "image": "URL_de_imagen_12",
+        "price": 14.75,
+        "plantCategory": "interior",
+        "description": "Variedad de especies con diferentes formas de hojas.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Boston Fern",
+        "image": "URL_de_imagen_13",
+        "price": 17.25,
+        "plantCategory": "interior",
+        "description": "Planta colgante que ama la humedad.",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Dieffenbachia",
+        "image": "URL_de_imagen_14",
+        "price": 13.80,
+        "plantCategory": "interior",
+        "description": "Conocida como la \"planta del camaleón\".",
+        "sunlight": "sombra parcial"
+    },
+    {
+        "name": "Chinese Money Plant",
+        "image": "URL_de_imagen_15",
+        "price": 25.50,
+        "plantCategory": "interior",
+        "description": "También conocida como la \"planta del pancake\".",
+        "sunlight": "sombra parcial"
+    }
+]
