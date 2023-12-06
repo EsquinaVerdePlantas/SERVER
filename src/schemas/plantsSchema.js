@@ -7,15 +7,16 @@ const plantsSchema = new Schema({
         type: String,   // Or just    name: String,
         required: true
     },
-    image: {
-        type: String
+    images: {
+        type: [String], // Definición de un array de strings
+        required: true, // Opcional, si quieres que siempre haya al menos una imagen
+        validate: {
+            validator: (value) => value.length <= 3, // Validación para un máximo de 3 URLs de imagen
+            message: 'La propiedad imagenes debe contener como máximo 3 URLs de imagen.',
+        },
     },
     price: {
         type: Number
-    },
-    plantCategory: {
-        type: String,
-        enum: ['interior', 'exterior', 'decorativa'],
     },
     description: {
         type: String
@@ -27,17 +28,13 @@ const plantsSchema = new Schema({
     plantsCategory: {
         type: Schema.Types.ObjectId,
         ref: 'PlantsCategoryModel',
-        
+        required: true
     },
     WateringModel: {
-        type: Schema.Types.ObjectId,
-        ref: 'WateringModel',
-       
+        type: String,
     },
     CarefulLevel: {
-        type: Schema.Types.ObjectId,
-        ref: 'CarefulLevelModel',
-        
+        type: String,
     },
 });
 

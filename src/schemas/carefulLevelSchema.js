@@ -1,5 +1,5 @@
 
-import mongoose from "mongoose";
+let mongoose = require('mongoose')
 const { Schema } = mongoose;
 
 const carefulLevel = new Schema({
@@ -8,10 +8,11 @@ const carefulLevel = new Schema({
         default: 'Nivel de cuidados',
     },
     description: {
-        type: String
+        type: String,
+        enum: ["Fácil", "Muy facil", "Moderado"]
     },
     plant: {
-        type: moongose.Schema.Types.ObjectId,
+        type: Schema.Types.ObjectId,
         ref: 'PlantsModel',
     },
 });
