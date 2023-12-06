@@ -1,75 +1,101 @@
 [
     {
         "name": "Pothos",
-        "image": "URL_de_imagen_1",
+        "images": [
+            "URL_imagen_1",
+            "URL_imagen_2",
+            "URL_imagen_3"
+        ],
         "price": 12.99,
         "plantCategory": "interior",
         "description": "Popular y fácil de cuidar.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que la tierra se seque entre riegos",
+        "CarefulLevel": "Fácil"
     },
     {
         "name": "Ficus Elastica",
-        "image": "URL_de_imagen_2",
+        "images": [
+            "https://ibb.co/fC0f648",
+            "URL_imagen_2",
+            "URL_imagen_3"
+        ],
         "price": 24.99,
         "plantCategory": "interior",
         "description": "Conocido como árbol de caucho, necesita luz indirecta.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Calathea Orbifolia",
-        "image": "URL_de_imagen_3",
+        "image": "https://ibb.co/Yyts7k3",
         "price": 18.50,
         "plantCategory": "interior",
         "description": "Con patrones decorativos en sus hojas.",
-        "sunlight": "sombra"
+        "sunlight": "sombra",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Snake Plant",
-        "image": "URL_de_imagen_4",
+        "image": "https://ibb.co/BNB0skS",
         "price": 15.00,
         "plantCategory": "interior",
         "description": "Resistente y puede tolerar condiciones de poca luz.",
-        "sunlight": "sombra"
+        "sunlight": "sombra",
+        "WateringModel": "Riego escaso, evitar el exceso de agua",
+        "CarefulLevel": "Muy fácil"
     },
     {
         "name": "ZZ Plant",
-        "image": "URL_de_imagen_5",
+        "image": "https://ibb.co/GFrmcNx",
         "price": 20.00,
         "plantCategory": "interior",
         "description": "Requiere poca agua y luz indirecta.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego escaso, permitir que el suelo se seque entre riegos",
+        "CarefulLevel": "Fácil"
     },
     {
         "name": "Monstera Deliciosa",
-        "image": "URL_de_imagen_6",
+        "image": "https://ibb.co/3CZ7NPK",
         "price": 30.00,
         "plantCategory": "interior",
         "description": "Conocida como \"costilla de Adán\".",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, mantener el sustrato ligeramente húmedo",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Aloe Vera",
-        "image": "URL_de_imagen_7",
+        "image": "https://ibb.co/C8fYHgt",
         "price": 9.99,
         "plantCategory": "interior",
         "description": "Planta suculenta con propiedades medicinales.",
-        "sunlight": "sol"
+        "sunlight": "sol",
+        "WateringModel": "Riego ocasional, permitir que la tierra se seque por completo entre riegos",
+        "CarefulLevel": "Fácil"
     },
     {
         "name": "Peace Lily",
-        "image": "URL_de_imagen_8",
+        "image": "https://ibb.co/CKB4fSM",
         "price": 16.50,
         "plantCategory": "interior",
         "description": "Florece en condiciones de poca luz.",
-        "sunlight": "sombra"
+        "sunlight": "sombra",
+        "WateringModel": "Riego moderado, mantener el sustrato ligeramente húmedo",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Spider Plant",
-        "image": "URL_de_imagen_9",
+        "image": "https://ibb.co/2Mq0DF8",
         "price": 11.00,
         "plantCategory": "interior",
         "description": "Fácil de cuidar y produce bebés araña.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
     },
     {
         "name": "Rubber Plant",
@@ -77,7 +103,9 @@
         "price": 22.00,
         "plantCategory": "interior",
         "description": "Necesita luz brillante pero no luz solar directa.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Dracaena Marginata",
@@ -85,7 +113,9 @@
         "price": 19.99,
         "plantCategory": "interior",
         "description": "Conocida como la \"margen de la caña de maíz\".",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque ligeramente entre riegos",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Philodendron",
@@ -93,7 +123,9 @@
         "price": 14.75,
         "plantCategory": "interior",
         "description": "Variedad de especies con diferentes formas de hojas.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque ligeramente entre riegos",
+        "CarefulLevel": "Fácil"
     },
     {
         "name": "Boston Fern",
@@ -101,7 +133,9 @@
         "price": 17.25,
         "plantCategory": "interior",
         "description": "Planta colgante que ama la humedad.",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Dieffenbachia",
@@ -109,7 +143,9 @@
         "price": 13.80,
         "plantCategory": "interior",
         "description": "Conocida como la \"planta del camaleón\".",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
     },
     {
         "name": "Chinese Money Plant",
@@ -117,6 +153,8 @@
         "price": 25.50,
         "plantCategory": "interior",
         "description": "También conocida como la \"planta del pancake\".",
-        "sunlight": "sombra parcial"
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
     }
 ]
