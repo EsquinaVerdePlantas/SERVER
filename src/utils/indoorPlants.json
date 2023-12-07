@@ -169,7 +169,6 @@
     },
     {
         "name": "Boston Fern",
-        "image": "URL_de_imagen_13",
         "images": [
             "https://ibb.co/F8ZdzY5",
             "https://ibb.co/BCtCwfq",
@@ -208,6 +207,216 @@
         "description": "También conocida como la \"planta del pancake\".",
         "sunlight": "sombra parcial",
         "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Lavanda",
+        "images": [
+            "https://i.ibb.co/tHgWFMY/imagen-2023-12-07-103608282.png",
+            "https://i.ibb.co/Y3nJZDR/imagen-2023-12-07-103642614.png",
+            "https://i.ibb.co/DR80Q2F/imagen-2023-12-07-103819337.png"
+        ],
+        "price": 14.99,
+        "plantCategory": "decorativa",
+        "description": "Fragante y atrae mariposas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Rosas",
+        "images": [
+            "https://i.ibb.co/qY2QCN2/imagen-2023-12-07-104613130.png",
+            "https://i.ibb.co/tch15NS/imagen-2023-12-07-104642217.png",
+            "https://i.ibb.co/HrKTbRt/imagen-2023-12-07-104717972.png"
+        ],
+        "price": 29.99,
+        "plantCategory": "decorativa",
+        "description": "Clásicas y hermosas flores.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Helecho Macho",
+        "images": [
+            "https://i.ibb.co/17PTpDx/imagen-2023-12-07-104814953.png",
+            "https://i.ibb.co/tzrFN4t/imagen-2023-12-07-104838572.png",
+            "https://i.ibb.co/T8V6VZ0/imagen-2023-12-07-104902236.png"
+        ],
+        "price": 18.50,
+        "plantCategory": "decorativa",
+        "description": "Follaje exuberante y resistente.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Hortensias",
+        "images": [
+            "https://i.ibb.co/S3RRMF6/imagen-2023-12-07-104947044.png",
+            "https://i.ibb.co/rb5LT66/imagen-2023-12-07-105025780.png",
+            "https://i.ibb.co/Vt6yjMB/imagen-2023-12-07-105056238.png"
+        ],
+        "price": 25.00,
+        "plantCategory": "decorativa",
+        "description": "Flores en forma de pompones.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Peonías",
+        "images": [
+            "https://i.ibb.co/QMxt0CZ/imagen-2023-12-07-105503770.png",
+            "https://i.ibb.co/c3S6cBq/imagen-2023-12-07-105534969.png",
+            "https://i.ibb.co/VQYwDJw/imagen-2023-12-07-105629698.png"
+        ],
+        "price": 32.00,
+        "plantCategory": "decorativa",
+        "description": "Flores exuberantes y aromáticas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Cactus de Bola",
+        "images": [
+            "https://i.ibb.co/zHBpwLf/imagen-2023-12-07-105749186.png",
+            "https://i.ibb.co/QrCnK98/imagen-2023-12-07-105813239.png",
+            "https://i.ibb.co/dBFsjHT/imagen-2023-12-07-105844127.png"
+        ],
+        "price": 12.00,
+        "plantCategory": "decorativa",
+        "description": "Resistente y de fácil mantenimiento.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego escaso, permitir que el suelo se seque entre riegos",
+        "CarefulLevel": "Muy fácil"
+    },
+    {
+        "name": "Suculentas Variadas",
+        "images": [
+            "https://i.ibb.co/ZX8Wyhg/imagen-2023-12-07-105931568.png",
+            "https://i.ibb.co/jV2FTZr/imagen-2023-12-07-105956532.png",
+            "https://i.ibb.co/CvVZgYs/imagen-2023-12-07-110018407.png"
+        ],
+        "price": 10.50,
+        "plantCategory": "decorativa",
+        "description": "Diversidad de formas y colores.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego escaso, permitir que el suelo se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Orquídea",
+        "images": [
+            "https://i.ibb.co/XJ0xw3y/imagen-2023-12-07-110114311.png",
+            "https://i.ibb.co/zFWMh7T/imagen-2023-12-07-110136956.png",
+            "https://i.ibb.co/vj9ry6v/imagen-2023-12-07-110201003.png"
+        ],
+        "price": 20.00,
+        "plantCategory": "decorativa",
+        "description": "Flores exóticas y elegantes.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Bambú",
+        "images": [
+            "https://i.ibb.co/CJddXSw/imagen-2023-12-07-110251955.png",
+            "https://i.ibb.co/6gmLtqw/imagen-2023-12-07-110358998.png",
+            "https://i.ibb.co/rcbNFq1/imagen-2023-12-07-110446768.png"
+        ],
+        "price": 15.00,
+        "plantCategory": "decorativa",
+        "description": "Elegante y símbolo de buena suerte.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, mantener el sustrato ligeramente húmedo",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Fresa",
+        "images": [
+            "https://i.ibb.co/vXP52Jt/imagen-2023-12-07-110536152.png",
+            "https://i.ibb.co/cyXdCPv/imagen-2023-12-07-110603844.png",
+            "https://i.ibb.co/QJBbmfX/imagen-2023-12-07-110623504.png"
+        ],
+        "price": 18.99,
+        "plantCategory": "decorativa",
+        "description": "Deliciosa y productiva.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Begonias",
+        "images": [
+            "https://i.ibb.co/vcmd0cB/imagen-2023-12-07-110705148.png",
+            "https://i.ibb.co/G7MZvjC/imagen-2023-12-07-110726589.png",
+            "https://i.ibb.co/x38yQpF/imagen-2023-12-07-110748278.png"
+        ],
+        "price": 22.50,
+        "plantCategory": "decorativa",
+        "description": "Flores brillantes y variadas.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Crisantemo",
+        "images": [
+            "https://i.ibb.co/FkvtWJy/imagen-2023-12-07-110843213.png",
+            "https://i.ibb.co/s92rSjb/imagen-2023-12-07-110903677.png",
+            "https://i.ibb.co/kSzR0QG/imagen-2023-12-07-110923850.png"
+        ],
+        "price": 16.00,
+        "plantCategory": "decorativa",
+        "description": "Flores vibrantes en otoño.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Lirio de los Valles",
+        "images": [
+            "https://i.ibb.co/Tg5cf3j/imagen-2023-12-07-111012805.png",
+            "https://i.ibb.co/BnqFB1d/imagen-2023-12-07-111044964.png",
+            "https://i.ibb.co/YX2gKrC/imagen-2023-12-07-111110160.png"
+        ],
+        "price": 21.50,
+        "plantCategory": "decorativa",
+        "description": "Flores fragantes y delicadas.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Girasol",
+        "images": [
+            "https://i.ibb.co/mXsFydv/imagen-2023-12-07-111156399.png",
+            "https://i.ibb.co/YBgm9NY/imagen-2023-12-07-111217592.png",
+            "https://i.ibb.co/KyPSjVF/imagen-2023-12-07-111237288.png"
+        ],
+        "price": 13.99,
+        "plantCategory": "decorativa",
+        "description": "Flores grandes y luminosas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Lavanda Mariposa",
+        "images": [
+            "https://i.ibb.co/RyxNpx9/imagen-2023-12-07-111425839.png",
+            "https://i.ibb.co/1sTGMkG/crea-unas-plantas-de-este-tipo-lavanda-tipo-mari-upscaled.png",
+            "https://i.ibb.co/RPmXyrj/crea-unas-plantas-de-este-tipo-lavanda-tipo-mari-upscaled-1.png"
+        ],
+        "price": 19.50,
+        "plantCategory": "decorativa",
+        "description": "Atrae mariposas y abejas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
         "CarefulLevel": "Fácil"
     }
 ]

@@ -23,7 +23,7 @@ const plantsSchema = new Schema({
     },
     sunlight: {
         type: String,
-        enum: ['sol', 'sombra parcial', 'sombra'],
+        enum: ['sol', 'sombra parcial', 'sombra', 'pleno sol'],
     },
     plantsCategory: {
         type: Schema.Types.ObjectId,
