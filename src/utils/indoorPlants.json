@@ -2,9 +2,9 @@
     {
         "name": "Pothos",
         "images": [
-            "URL_imagen_1",
-            "URL_imagen_2",
-            "URL_imagen_3"
+            "https://ibb.co/54FXSpX",
+            "https://ibb.co/s9vvswk",
+            "https://ibb.co/C0bsgRH"
         ],
         "price": 12.99,
         "plantCategory": "interior",
@@ -17,8 +17,8 @@
         "name": "Ficus Elastica",
         "images": [
             "https://ibb.co/fC0f648",
-            "URL_imagen_2",
-            "URL_imagen_3"
+            "https://ibb.co/Zh91DZc",
+            "https://ibb.co/Zh91DZc"
         ],
         "price": 24.99,
         "plantCategory": "interior",
@@ -29,7 +29,11 @@
     },
     {
         "name": "Calathea Orbifolia",
-        "image": "https://ibb.co/Yyts7k3",
+        "images": [
+            "https://ibb.co/0hjnpK7",
+            "https://ibb.co/871tSb6",
+            "https://ibb.co/0hjnpK7"
+        ],
         "price": 18.50,
         "plantCategory": "interior",
         "description": "Con patrones decorativos en sus hojas.",
@@ -39,7 +43,11 @@
     },
     {
         "name": "Snake Plant",
-        "image": "https://ibb.co/BNB0skS",
+        "images": [
+            "https://ibb.co/BNB0skS",
+            "https://ibb.co/7bRK1xG",
+            "https://ibb.co/Ns43yHx"
+        ],
         "price": 15.00,
         "plantCategory": "interior",
         "description": "Resistente y puede tolerar condiciones de poca luz.",
@@ -49,7 +57,11 @@
     },
     {
         "name": "ZZ Plant",
-        "image": "https://ibb.co/GFrmcNx",
+        "images": [
+            "https://ibb.co/GFrmcNx",
+            "https://ibb.co/RCq5gd1",
+            "https://ibb.co/RCq5gd1"
+        ],
         "price": 20.00,
         "plantCategory": "interior",
         "description": "Requiere poca agua y luz indirecta.",
@@ -59,7 +71,11 @@
     },
     {
         "name": "Monstera Deliciosa",
-        "image": "https://ibb.co/3CZ7NPK",
+        "images": [
+            "https://ibb.co/3CZ7NPK",
+            "https://ibb.co/dfTpjtz",
+            "https://ibb.co/dfTpjtz"
+        ],
         "price": 30.00,
         "plantCategory": "interior",
         "description": "Conocida como \"costilla de Adán\".",
@@ -69,7 +85,11 @@
     },
     {
         "name": "Aloe Vera",
-        "image": "https://ibb.co/C8fYHgt",
+        "images": [
+            "https://ibb.co/C8fYHgt",
+            "https://ibb.co/k6pGgBZ",
+            "https://ibb.co/1r2wnTh"
+        ],
         "price": 9.99,
         "plantCategory": "interior",
         "description": "Planta suculenta con propiedades medicinales.",
@@ -79,7 +99,11 @@
     },
     {
         "name": "Peace Lily",
-        "image": "https://ibb.co/CKB4fSM",
+        "images": [
+            "https://ibb.co/CKB4fSM",
+            "https://ibb.co/n030V3Y",
+            "https://ibb.co/hLV8XZ0"
+        ],
         "price": 16.50,
         "plantCategory": "interior",
         "description": "Florece en condiciones de poca luz.",
@@ -89,7 +113,11 @@
     },
     {
         "name": "Spider Plant",
-        "image": "https://ibb.co/2Mq0DF8",
+        "images": [
+            "https://ibb.co/2Mq0DF8",
+            "https://ibb.co/g9XqVFW",
+            "https://ibb.co/g9XqVFW"
+        ],
         "price": 11.00,
         "plantCategory": "interior",
         "description": "Fácil de cuidar y produce bebés araña.",
@@ -99,7 +127,11 @@
     },
     {
         "name": "Rubber Plant",
-        "image": "URL_de_imagen_10",
+        "images": [
+            "https://ibb.co/FVwFGxy",
+            "https://ibb.co/RSWnZmp",
+            "https://ibb.co/MgCFJQD"
+        ],
         "price": 22.00,
         "plantCategory": "interior",
         "description": "Necesita luz brillante pero no luz solar directa.",
@@ -109,7 +141,11 @@
     },
     {
         "name": "Dracaena Marginata",
-        "image": "URL_de_imagen_11",
+        "images": [
+            "https://ibb.co/QFLNZPn",
+            "https://ibb.co/M21P0ZP",
+            "https://ibb.co/VNn3Q21"
+        ],
         "price": 19.99,
         "plantCategory": "interior",
         "description": "Conocida como la \"margen de la caña de maíz\".",
@@ -119,7 +155,11 @@
     },
     {
         "name": "Philodendron",
-        "image": "URL_de_imagen_12",
+        "images": [
+            "https://ibb.co/RbQ52Km",
+            "https://ibb.co/s3Z5nbK",
+            "https://ibb.co/MZL9Jvz"
+        ],
         "price": 14.75,
         "plantCategory": "interior",
         "description": "Variedad de especies con diferentes formas de hojas.",
@@ -130,6 +170,11 @@
     {
         "name": "Boston Fern",
         "image": "URL_de_imagen_13",
+        "images": [
+            "https://ibb.co/F8ZdzY5",
+            "https://ibb.co/BCtCwfq",
+            "https://ibb.co/wJ6Vr9K"
+        ],
         "price": 17.25,
         "plantCategory": "interior",
         "description": "Planta colgante que ama la humedad.",
@@ -139,7 +184,11 @@
     },
     {
         "name": "Dieffenbachia",
-        "image": "URL_de_imagen_14",
+        "images": [
+            "https://ibb.co/xYbrKm9",
+            "https://ibb.co/93n5KHQ",
+            "https://ibb.co/KwK1ZB3"
+        ],
         "price": 13.80,
         "plantCategory": "interior",
         "description": "Conocida como la \"planta del camaleón\".",
@@ -149,7 +198,11 @@
     },
     {
         "name": "Chinese Money Plant",
-        "image": "URL_de_imagen_15",
+        "images": [
+            "https://ibb.co/TwWRvjV",
+            "https://ibb.co/CWSY42r",
+            "https://ibb.co/JkcB3Cc"
+        ],
         "price": 25.50,
         "plantCategory": "interior",
         "description": "También conocida como la \"planta del pancake\".",

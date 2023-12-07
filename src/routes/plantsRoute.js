@@ -3,18 +3,17 @@ const plantsRoute = Router();
 const deletePlantHandler = require("../handlers/Plants/deletePlantHandler");
 let createMasivoIndoorPlants = require('../handlers/Plants/createIndoorPlantsHandler');
 let getAllPlants = require('../handlers/Plants/getPlantsHandler');
+let createPlant = require('../handlers/Plants/createPlantHandler')
 
 // Get All Plants --> OK
 plantsRoute.get('/all', getAllPlants);
 
 
-// Create Plant --> Pendiente
-plantsRoute.post('/', (req, res) => {
-    res.send("is all Ok for now")
-});
+// Create Plant --> OK
+plantsRoute.post('/create', createPlant);
 
 // Delete Plant --> Pendiente
-plantsRoute.delete('/', deletePlantHandler);
+plantsRoute.delete('/:id', deletePlantHandler);
 
 
 // Get Plant by Id  --> Pendiente
