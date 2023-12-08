@@ -418,5 +418,199 @@
         "sunlight": "pleno sol",
         "WateringModel": "Riego moderado, evitar encharcamiento",
         "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Palmera Lyvistona",
+        "image": [
+            "https://i.ibb.co/Dz5PyBp/Palmera-Lyvistona1.png",
+            "https://i.ibb.co/JqcR090/Palmera-Lyvistona2.png",
+            "https://i.ibb.co/7JWZtF4/Palmera-Lyvistona3.png"
+        ],
+        "price": 210.00,
+        "plantCategory": "exterior",
+        "description": "Una elegante opción de exterior con hojas en forma de abanico",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego regular",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Palmera Rafi",
+        "image": [
+            "https://i.ibb.co/1qRH8tF/Palmera-Rafi1.png",
+            "https://i.ibb.co/6FK07TF/Palmera-Rafi2.png",
+            "https://i.ibb.co/vxF4Wg4/Palmera-Rafi3.png"
+        ],
+        "price": 570.00,
+        "plantCategory": "exterior",
+        "description": "Una planta de exterior con hojas palmeadas y tronco robusto.",
+        "sunlight": "Requiere luz directa",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Palmera Rubelina",
+        "image": [
+            "https://i.ibb.co/4fs1xRP/Palmera-Rubelina1.png",
+            "https://i.ibb.co/RpRT6jj/Palmera-Rubelina2.png",
+            "https://i.ibb.co/thPq063/Palmera-Rubelina3.png"
+        ],
+        "price": 205.00,
+        "plantCategory": "exterior",
+        "description": "Planta exterior con hojas plumosas y tronco delgado.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Ficus Benjamina",
+        "image": "URL_de_imagen_4",
+        "price": 150.00,
+        "plantCategory": "exterior",
+        "description": "Planta de exterior con hojas elegantes y ramificación densa.",
+        "sunlight": "Requiere luz brillante pero indirecta",
+        "WateringModel": "Riego regular",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Dungane",
+        "image": "URL_de_imagen_5",
+        "price": 200.00,
+        "plantCategory": "exterior",
+        "description": "planta exterior con hojas ornamentales.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Duncan 3",
+        "image": "URL_de_imagen_6",
+        "price": 130.00,
+        "plantCategory": "exterior",
+        "description": "planta de exterior con hojas llamativas",
+        "sunlight": "Requiere luz brillante pero indirecta",
+        "WateringModel": "Riego regular",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Crontón Amarillo",
+        "image": [
+
+        ],
+        "price": 125.00,
+        "plantCategory": "exterior",
+        "description": "Planta de exterior con hojas vibrantes en tonos verdes y amarillos, ideal para añadir color al jardín. Requiere luz indirecta y riego moderado.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Sanciveria Varigado",
+        "image": [
+
+        ],
+        "price": 255.00,
+        "plantCategory": "exterior",
+        "description": "Resistente planta de exterior, conocida como 'Lengua de Suegra', con hojas variegadas en verde y amarillo. Tolerante a la poca luz y requiere bajo mantenimiento.",
+        "sunlight": "Puede tolerar luz indirecta o baja",
+        "WateringModel": "Riego bajo",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Tronco de Brasil",
+        "image": [
+            "https://i.ibb.co/7xfPbFv/Tronco-de-Brasil1.png",
+            "https://i.ibb.co/1M5Z8Dw/Tronco-de-Brasil2.png",
+            "https://i.ibb.co/Mf7XZSS/Tronco-de-Brasil3.png"
+        ],
+        "price": 180.00,
+        "plantCategory": "exterior",
+        "description": "Planta de exterior con hojas en forma de lanza, tronco atractivo y requiere luz indirecta.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Buganvilla",
+        "image": [
+            "https://i.ibb.co/2KmG7vs/Buganvilla1.png",
+            "https://i.ibb.co/rbdtnX5/Buganvilla2.png",
+            "https://i.ibb.co/pxZKwd3/Buganvilla3.png"
+        ],
+        "price": 220.00,
+        "plantCategory": "exterior",
+        "description": "Enredadera de exterior con flores llamativas en tonos rosa y rojo. Prefiere luz directa, riego moderado a bajo. Embellece jardines y pérgolas.",
+        "sunlight": "Requiere luz directa",
+        "WateringModel": "Riego moderado a bajo",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Palmera Rubelina 2",
+        "image": [
+            "https://i.ibb.co/y4JSgLT/Palmera-Rubelina-2-1.png",
+            "https://i.ibb.co/k8vNXkT/Palmera-Rubelina-2-2.png",
+            "https://i.ibb.co/86N0hKV/Palmera-Rubelina-2-3.png"
+        ],
+        "price": 285.00,
+        "plantCategory": "exterior",
+        "description": "Palmera de exterior con elegantes hojas y tronco, aportando un toque tropical al paisaje. Requiere luz indirecta, riego moderado. Precio: $285.00.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Philodendron en Maceta",
+        "image": [
+            "https://i.ibb.co/Jng2yPc/Philodendron-en-Maceta1.png",
+            "https://i.ibb.co/3d96F6z/Philodendron-en-Maceta2.png",
+            "https://i.ibb.co/FbPw4mq/Philodendron-en-Maceta3.png"
+        ],
+        "price": 240.00,
+        "plantCategory": "exterior",
+        "description": "Philodendron ideal para exteriores en maceta, con hojas exuberantes y fácil cuidado. Prefiere luz indirecta, riego moderado. Precio: $240.00.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Palmera Viajera",
+        "image": [
+            "https://i.ibb.co/6Z2jRsg/Palmera-Viajera1.png",
+            "https://i.ibb.co/PYN1qTW/Palmera-Viajera2.png",
+            "https://i.ibb.co/C5J2WvQ/Palmera-Viajera3.png"
+        ],
+        "price": 550.00,
+        "plantCategory": "exterior",
+        "description": "Palmera de exterior con hojas exuberantes y tronco esbelto, aportando un aspecto tropical al entorno. Requiere luz indirecta, riego moderado. Precio: $550.00.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Yuca",
+        "image": [
+            "https://i.ibb.co/7Rtycby/Yuca1.png",
+            "https://i.ibb.co/L5dJc5g/Yuca2.png",
+            "https://i.ibb.co/0cn7tkk/Yuca3.png"
+        ],
+        "price": 190.00,
+        "plantCategory": "exterior",
+        "description": "Yuca de exterior con hojas lanceoladas y aspecto exótico. Adaptable a diversas condiciones de luz y suelo. Requiere riego moderado. Precio: $190.00.",
+        "sunlight": "Adaptable a diferentes condiciones de luz",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Tuja Dorada",
+        "image": [
+            "https://i.ibb.co/1LZJWZV/Tuja-Dorada1.png",
+            "https://i.ibb.co/yqqBZLB/Tuja-Dorada2.png",
+            "https://i.ibb.co/K2Z2J1B/Tuja-Dorada3.png"
+        ],
+        "price": 295.00,
+        "plantCategory": "exterior",
+        "description": "Tuja Dorada, una conífera de exterior con follaje dorado brillante. Aporta un toque de color y estructura al jardín. Prefiere luz directa y riego moderado. Precio: $295.00.",
+        "sunlight": "Requiere luz directa",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
     }
 ]
