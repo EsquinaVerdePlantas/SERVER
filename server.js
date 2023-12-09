@@ -9,5 +9,5 @@ mongoose.connection.once('open', () => {
 });
 
 server.listen(PORT, () => {
-    console.log(`Server listen in port ${PORT}`)
+    console.log(`Server listen in port http://localhost:${PORT}`)
 });
