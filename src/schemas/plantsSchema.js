@@ -1,29 +1,43 @@
 
-import mongoose from "mongoose";
-const {Schema} = mongoose;
+let mongoose = require("mongoose");
+const { Schema } = mongoose;
 
 const plantsSchema = new Schema({
     name: {
         type: String,   // Or just    name: String,
         required: true
-    },   
-    image: {
-        type: String
+    },
+    images: {
+        type: [String], // Definición de un array de strings
+        required: true, // Opcional, si quieres que siempre haya al menos una imagen
+        validate: {
+            validator: (value) => value.length <= 3, // Validación para un máximo de 3 URLs de imagen
+            message: 'La propiedad imagenes debe contener como máximo 3 URLs de imagen.',
+        },
     },
     price: {
         type: Number
     },
-    plantCategory: {
-        type: String,
-        enum: ['interior', 'exterior', 'decorativa'], 
+    description: {
+        type: String
     },
-    description: { 
-        type: String 
-    }, 
-    sunlight: { 
+    sunlight: {
         type: String,
-        enum: ['sol', 'sombra partial', 'sombra'],
-    }, 
+        enum: ['sol', 'sombra parcial', 'sombra', 'pleno sol', 'Requiere luz indirecta',
+            'Requiere luz directa', 'Requiere luz brillante pero indirecta', 'Puede tolerar luz indirecta o baja',
+            'Adaptable a diferentes condiciones de luz'],
+    },
+    plantsCategory: {
+        type: Schema.Types.ObjectId,
+        ref: 'PlantsCategoryModel',
+        required: true
+    },
+    WateringModel: {
+        type: String,
+    },
+    CarefulLevel: {
+        type: String,
+    },
 });
 
 const PlantsModel = mongoose.model('PlantsModel', plantsSchema);

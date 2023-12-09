@@ -1,0 +1,612 @@
+[
+    {
+        "name": "Pothos",
+        "images": [
+            "https://i.ibb.co/bmJjCwj/AI-Generated-Image-2023-12-06-439601128047201.jpg",
+            "https://i.ibb.co/pjvv4zG/AI-Generated-Image-2023-12-06-439601128046201.jpg",
+            "https://i.ibb.co/6sHJzjW/AI-Generated-Image-2023-12-06-439601128045201.jpg"
+        ],
+        "price": 12.99,
+        "plantCategory": "interior",
+        "description": "Popular y fácil de cuidar.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que la tierra se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Ficus Elastica",
+        "images": [
+            "https://i.ibb.co/Cn0gChJ/Crea-una-foto-d-a65e3500-eaf7-4ab2-a41b-61e5a035fa30.png",
+            "https://i.ibb.co/wKtrmvp/AI-Generated-Image-2023-12-06-439601351010201.jpg",
+            "https://i.ibb.co/KW0S1Hf/imagen-2023-12-08-165812225.png"
+        ],
+        "price": 24.99,
+        "plantCategory": "interior",
+        "description": "Conocido como árbol de caucho, necesita luz indirecta.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Calathea Orbifolia",
+        "images": [
+            "https://i.ibb.co/KFj5cDP/crea-3-fotos-de-esta-planta-calathea-orbifolia-en-un-ambiente-interior-por-favor-189df3b8-cda2-4a42.jpg",
+            "https://i.ibb.co/S3FG9cR/crea-3-fotos-de-esta-planta-calathea-orbifolia-en-un-ambiente-interior-por-favor-8fc3b89c-1419-438a.jpg",
+            "https://i.ibb.co/m5cmBr6/imagen-2023-12-08-165924736.png"
+        ],
+        "price": 18.50,
+        "plantCategory": "interior",
+        "description": "Con patrones decorativos en sus hojas.",
+        "sunlight": "sombra",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Snake Plant",
+        "images": [
+            "https://i.ibb.co/6BFjsQf/Crea-una-foto-d-4cf75987-39d9-4731-b512-88a1cfadd55d.png",
+            "https://i.ibb.co/ZNYxMRh/crea-3-fotos-de-esta-planta-snake-plant-en-un-ambiente-interior-por-favor-4b5d1c18-0c34-4f9e-8897-fd.jpg",
+            "https://i.ibb.co/ZVZJMkd/crea-3-fotos-de-esta-planta-snake-plant-en-un-ambiente-interior-por-favor-c8386b68-06b1-4976-8510-94.jpg"
+        ],
+        "price": 15.00,
+        "plantCategory": "interior",
+        "description": "Resistente y puede tolerar condiciones de poca luz.",
+        "sunlight": "sombra",
+        "WateringModel": "Riego escaso, evitar el exceso de agua",
+        "CarefulLevel": "Muy fácil"
+    },
+    {
+        "name": "ZZ Plant",
+        "images": [
+            "https://i.ibb.co/stX7yzm/Crea-una-foto-d-8ded8ec9-1fc1-446b-8b45-7b0d98e640cb.png",
+            "https://i.ibb.co/vJStcRb/crea-3-fotos-de-esta-planta-zz-planten-un-ambiente-interior-por-favor-08691b20-4c63-4651-af01-80fd64.jpg",
+            "https://i.ibb.co/Mcv8czc/imagen-2023-12-08-165556842.png"
+        ],
+        "price": 20.00,
+        "plantCategory": "interior",
+        "description": "Requiere poca agua y luz indirecta.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego escaso, permitir que el suelo se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Monstera Deliciosa",
+        "images": [
+            "https://i.ibb.co/LZ78tsK/Crea-una-foto-d-0045f479-9fab-427e-a292-535d293be974.png",
+            "https://i.ibb.co/7SfpjQ6/crea-3-fotos-de-esta-planta-monstera-deliciosa-un-ambiente-interior-por-favor-cd030ea6-c5aa-402b-99b.jpg",
+            "https://i.ibb.co/L96PWrQ/imagen-2023-12-08-170213371.png"
+        ],
+        "price": 30.00,
+        "plantCategory": "interior",
+        "description": "Conocida como \"costilla de Adán\".",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, mantener el sustrato ligeramente húmedo",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Aloe Vera",
+        "images": [
+            "https://i.ibb.co/qjvcrKn/Crea-una-foto-d-3b8887d8-9658-4aff-8254-05525cfedbdb.png",
+            "https://i.ibb.co/YT6N7Qg/crea-3-fotos-de-esta-planta-aloe-vera-un-ambiente-interior-por-favor-d2c9f377-8422-4f58-82b3-2674339.jpg",
+            "https://i.ibb.co/R3HVScZ/crea-3-fotos-de-esta-planta-aloe-vera-un-ambiente-interior-por-favor-53c1d192-bb22-4a17-8210-243538a.jpg"
+        ],
+        "price": 9.99,
+        "plantCategory": "interior",
+        "description": "Planta suculenta con propiedades medicinales.",
+        "sunlight": "sol",
+        "WateringModel": "Riego ocasional, permitir que la tierra se seque por completo entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Peace Lily",
+        "images": [
+            "https://i.ibb.co/chJRjsC/Crea-una-foto-d-945707f1-d1f9-45b3-8c98-6d18e349d01b.png",
+            "https://i.ibb.co/4fsfDsX/crea-3-fotos-de-esta-planta-peace-lily-en-un-ambiente-interior-por-favor-fdb3ca2c-bf11-450b-800d-4a2.jpg",
+            "https://i.ibb.co/n6jk3np/crea-3-fotos-de-esta-planta-peace-lily-en-un-ambiente-interior-por-favor-96fb3c5d-d9cf-4b11-9015-4f5.jpg"
+        ],
+        "price": 16.50,
+        "plantCategory": "interior",
+        "description": "Florece en condiciones de poca luz.",
+        "sunlight": "sombra",
+        "WateringModel": "Riego moderado, mantener el sustrato ligeramente húmedo",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Spider Plant",
+        "images": [
+            "https://i.ibb.co/pK26t1W/Crea-una-foto-d-706b2c13-7333-486e-9902-9ffad4c8cf2d.png",
+            "https://i.ibb.co/XLd08k5/crea-3-fotos-de-esta-planta-spider-plant-en-un-ambiente-interior-por-favor-ed44269c-8a7f-48d4-875c-a.jpg",
+            "https://i.ibb.co/2hBFkLv/imagen-2023-12-08-170829954.png"
+        ],
+        "price": 11.00,
+        "plantCategory": "interior",
+        "description": "Fácil de cuidar y produce bebés araña.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Rubber Plant",
+        "images": [
+            "https://i.ibb.co/nCcFhgY/crea-3-fotos-de-esta-planta-rubber-plant-en-un-ambiente-interior-por-favor-10514598-f856-4b1a-be89-b.jpg",
+            "https://i.ibb.co/FWtvNMb/crea-3-fotos-de-esta-planta-rubber-plant-en-un-ambiente-interior-por-favor-30dd9374-fde7-4dd7-aa54-f.jpg",
+            "https://i.ibb.co/6yWjqLR/crea-3-fotos-de-esta-planta-rubber-plant-en-un-ambiente-interior-por-favor-5d17c11c-9c0e-4bd3-9e98-5.jpg"
+        ],
+        "price": 22.00,
+        "plantCategory": "interior",
+        "description": "Necesita luz brillante pero no luz solar directa.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Dracaena Marginata",
+        "images": [
+            "https://i.ibb.co/3y2NwpW/crea-3-fotos-de-esta-planta-dracaena-marginata-en-un-ambiente-interior-por-favor-bc37a5d1-8b70-4946.jpg",
+            "https://i.ibb.co/PmW1HF1/crea-3-fotos-de-esta-planta-dracaena-marginata-en-un-ambiente-interior-por-favor-c049cf24-e700-42c3.jpg",
+            "https://i.ibb.co/DbcL85J/crea-3-fotos-de-esta-planta-dracaena-marginata-en-un-ambiente-interior-por-favor-0d843065-3489-4c9a.jpg"
+        ],
+        "price": 19.99,
+        "plantCategory": "interior",
+        "description": "Conocida como la \"margen de la caña de maíz\".",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque ligeramente entre riegos",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Philodendron",
+        "images": [
+            "https://i.ibb.co/LR9GSyW/imagen-2023-12-06-194234260.png",
+            "https://i.ibb.co/NYM15t9/imagen-2023-12-06-194341893.png",
+            "https://i.ibb.co/zQwNtM3/imagen-2023-12-06-194839279.png"
+        ],
+        "price": 14.75,
+        "plantCategory": "interior",
+        "description": "Variedad de especies con diferentes formas de hojas.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque ligeramente entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Boston Fern",
+        "images": [
+            "https://i.ibb.co/xz9r6g1/imagen-2023-12-06-195003702.png",
+            "https://i.ibb.co/DRtRL15/imagen-2023-12-06-195027190.png",
+            "https://i.ibb.co/9wY63Fq/imagen-2023-12-06-195048510.png"
+        ],
+        "price": 17.25,
+        "plantCategory": "interior",
+        "description": "Planta colgante que ama la humedad.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Dieffenbachia",
+        "images": [
+            "https://i.ibb.co/T1GNDKj/imagen-2023-12-06-195536736.png",
+            "https://i.ibb.co/mFJWZ5f/imagen-2023-12-06-195621764.png",
+            "https://i.ibb.co/q5JZGhP/imagen-2023-12-06-195718388.png"
+        ],
+        "price": 13.80,
+        "plantCategory": "interior",
+        "description": "Conocida como la \"planta del camaleón\".",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Chinese Money Plant",
+        "images": [
+            "https://i.ibb.co/nwPfgdH/imagen-2023-12-06-195932158.png",
+            "https://i.ibb.co/wY2P8sv/imagen-2023-12-06-195952141.png",
+            "https://i.ibb.co/ggrj46r/imagen-2023-12-06-200033696.png"
+        ],
+        "price": 25.50,
+        "plantCategory": "interior",
+        "description": "También conocida como la \"planta del pancake\".",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Lavanda",
+        "images": [
+            "https://i.ibb.co/tHgWFMY/imagen-2023-12-07-103608282.png",
+            "https://i.ibb.co/Y3nJZDR/imagen-2023-12-07-103642614.png",
+            "https://i.ibb.co/DR80Q2F/imagen-2023-12-07-103819337.png"
+        ],
+        "price": 14.99,
+        "plantCategory": "decorativa",
+        "description": "Fragante y atrae mariposas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Rosas",
+        "images": [
+            "https://i.ibb.co/qY2QCN2/imagen-2023-12-07-104613130.png",
+            "https://i.ibb.co/tch15NS/imagen-2023-12-07-104642217.png",
+            "https://i.ibb.co/HrKTbRt/imagen-2023-12-07-104717972.png"
+        ],
+        "price": 29.99,
+        "plantCategory": "decorativa",
+        "description": "Clásicas y hermosas flores.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Helecho Macho",
+        "images": [
+            "https://i.ibb.co/17PTpDx/imagen-2023-12-07-104814953.png",
+            "https://i.ibb.co/tzrFN4t/imagen-2023-12-07-104838572.png",
+            "https://i.ibb.co/T8V6VZ0/imagen-2023-12-07-104902236.png"
+        ],
+        "price": 18.50,
+        "plantCategory": "decorativa",
+        "description": "Follaje exuberante y resistente.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Hortensias",
+        "images": [
+            "https://i.ibb.co/S3RRMF6/imagen-2023-12-07-104947044.png",
+            "https://i.ibb.co/rb5LT66/imagen-2023-12-07-105025780.png",
+            "https://i.ibb.co/Vt6yjMB/imagen-2023-12-07-105056238.png"
+        ],
+        "price": 25.00,
+        "plantCategory": "decorativa",
+        "description": "Flores en forma de pompones.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Peonías",
+        "images": [
+            "https://i.ibb.co/QMxt0CZ/imagen-2023-12-07-105503770.png",
+            "https://i.ibb.co/c3S6cBq/imagen-2023-12-07-105534969.png",
+            "https://i.ibb.co/VQYwDJw/imagen-2023-12-07-105629698.png"
+        ],
+        "price": 32.00,
+        "plantCategory": "decorativa",
+        "description": "Flores exuberantes y aromáticas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Cactus de Bola",
+        "images": [
+            "https://i.ibb.co/zHBpwLf/imagen-2023-12-07-105749186.png",
+            "https://i.ibb.co/QrCnK98/imagen-2023-12-07-105813239.png",
+            "https://i.ibb.co/dBFsjHT/imagen-2023-12-07-105844127.png"
+        ],
+        "price": 12.00,
+        "plantCategory": "decorativa",
+        "description": "Resistente y de fácil mantenimiento.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego escaso, permitir que el suelo se seque entre riegos",
+        "CarefulLevel": "Muy fácil"
+    },
+    {
+        "name": "Suculentas Variadas",
+        "images": [
+            "https://i.ibb.co/ZX8Wyhg/imagen-2023-12-07-105931568.png",
+            "https://i.ibb.co/jV2FTZr/imagen-2023-12-07-105956532.png",
+            "https://i.ibb.co/CvVZgYs/imagen-2023-12-07-110018407.png"
+        ],
+        "price": 10.50,
+        "plantCategory": "decorativa",
+        "description": "Diversidad de formas y colores.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego escaso, permitir que el suelo se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Orquídea",
+        "images": [
+            "https://i.ibb.co/XJ0xw3y/imagen-2023-12-07-110114311.png",
+            "https://i.ibb.co/zFWMh7T/imagen-2023-12-07-110136956.png",
+            "https://i.ibb.co/vj9ry6v/imagen-2023-12-07-110201003.png"
+        ],
+        "price": 20.00,
+        "plantCategory": "decorativa",
+        "description": "Flores exóticas y elegantes.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Bambú",
+        "images": [
+            "https://i.ibb.co/CJddXSw/imagen-2023-12-07-110251955.png",
+            "https://i.ibb.co/6gmLtqw/imagen-2023-12-07-110358998.png",
+            "https://i.ibb.co/rcbNFq1/imagen-2023-12-07-110446768.png"
+        ],
+        "price": 15.00,
+        "plantCategory": "decorativa",
+        "description": "Elegante y símbolo de buena suerte.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego moderado, mantener el sustrato ligeramente húmedo",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Fresa",
+        "images": [
+            "https://i.ibb.co/vXP52Jt/imagen-2023-12-07-110536152.png",
+            "https://i.ibb.co/cyXdCPv/imagen-2023-12-07-110603844.png",
+            "https://i.ibb.co/QJBbmfX/imagen-2023-12-07-110623504.png"
+        ],
+        "price": 18.99,
+        "plantCategory": "decorativa",
+        "description": "Deliciosa y productiva.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Begonias",
+        "images": [
+            "https://i.ibb.co/vcmd0cB/imagen-2023-12-07-110705148.png",
+            "https://i.ibb.co/G7MZvjC/imagen-2023-12-07-110726589.png",
+            "https://i.ibb.co/x38yQpF/imagen-2023-12-07-110748278.png"
+        ],
+        "price": 22.50,
+        "plantCategory": "decorativa",
+        "description": "Flores brillantes y variadas.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Crisantemo",
+        "images": [
+            "https://i.ibb.co/FkvtWJy/imagen-2023-12-07-110843213.png",
+            "https://i.ibb.co/s92rSjb/imagen-2023-12-07-110903677.png",
+            "https://i.ibb.co/kSzR0QG/imagen-2023-12-07-110923850.png"
+        ],
+        "price": 16.00,
+        "plantCategory": "decorativa",
+        "description": "Flores vibrantes en otoño.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Lirio de los Valles",
+        "images": [
+            "https://i.ibb.co/Tg5cf3j/imagen-2023-12-07-111012805.png",
+            "https://i.ibb.co/BnqFB1d/imagen-2023-12-07-111044964.png",
+            "https://i.ibb.co/YX2gKrC/imagen-2023-12-07-111110160.png"
+        ],
+        "price": 21.50,
+        "plantCategory": "decorativa",
+        "description": "Flores fragantes y delicadas.",
+        "sunlight": "sombra parcial",
+        "WateringModel": "Riego regular, mantener la humedad del sustrato",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Girasol",
+        "images": [
+            "https://i.ibb.co/mXsFydv/imagen-2023-12-07-111156399.png",
+            "https://i.ibb.co/YBgm9NY/imagen-2023-12-07-111217592.png",
+            "https://i.ibb.co/KyPSjVF/imagen-2023-12-07-111237288.png"
+        ],
+        "price": 13.99,
+        "plantCategory": "decorativa",
+        "description": "Flores grandes y luminosas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego moderado, permitir que el sustrato se seque entre riegos",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Lavanda Mariposa",
+        "images": [
+            "https://i.ibb.co/RyxNpx9/imagen-2023-12-07-111425839.png",
+            "https://i.ibb.co/1sTGMkG/crea-unas-plantas-de-este-tipo-lavanda-tipo-mari-upscaled.png",
+            "https://i.ibb.co/RPmXyrj/crea-unas-plantas-de-este-tipo-lavanda-tipo-mari-upscaled-1.png"
+        ],
+        "price": 19.50,
+        "plantCategory": "decorativa",
+        "description": "Atrae mariposas y abejas.",
+        "sunlight": "pleno sol",
+        "WateringModel": "Riego moderado, evitar encharcamiento",
+        "CarefulLevel": "Fácil"
+    },
+    {
+        "name": "Palmera Lyvistona",
+        "images": [
+            "https://i.ibb.co/Dz5PyBp/Palmera-Lyvistona1.png",
+            "https://i.ibb.co/JqcR090/Palmera-Lyvistona2.png",
+            "https://i.ibb.co/7JWZtF4/Palmera-Lyvistona3.png"
+        ],
+        "price": 210.00,
+        "plantCategory": "exterior",
+        "description": "Una elegante opción de exterior con hojas en forma de abanico",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego regular",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Palmera Rafi",
+        "images": [
+            "https://i.ibb.co/1qRH8tF/Palmera-Rafi1.png",
+            "https://i.ibb.co/6FK07TF/Palmera-Rafi2.png",
+            "https://i.ibb.co/vxF4Wg4/Palmera-Rafi3.png"
+        ],
+        "price": 570.00,
+        "plantCategory": "exterior",
+        "description": "Una planta de exterior con hojas palmeadas y tronco robusto.",
+        "sunlight": "Requiere luz directa",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Palmera Rubelina",
+        "images": [
+            "https://i.ibb.co/4fs1xRP/Palmera-Rubelina1.png",
+            "https://i.ibb.co/RpRT6jj/Palmera-Rubelina2.png",
+            "https://i.ibb.co/thPq063/Palmera-Rubelina3.png"
+        ],
+        "price": 205.00,
+        "plantCategory": "exterior",
+        "description": "Planta exterior con hojas plumosas y tronco delgado.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Ficus Benjamina",
+        "images": "URL_de_imagen_4",
+        "price": 150.00,
+        "plantCategory": "exterior",
+        "description": "Planta de exterior con hojas elegantes y ramificación densa.",
+        "sunlight": "Requiere luz brillante pero indirecta",
+        "WateringModel": "Riego regular",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Dungane",
+        "images": "URL_de_imagen_5",
+        "price": 200.00,
+        "plantCategory": "exterior",
+        "description": "planta exterior con hojas ornamentales.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Duncan 3",
+        "images": "URL_de_imagen_6",
+        "price": 130.00,
+        "plantCategory": "exterior",
+        "description": "planta de exterior con hojas llamativas",
+        "sunlight": "Requiere luz brillante pero indirecta",
+        "WateringModel": "Riego regular",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Crontón Amarillo",
+        "images": [],
+        "price": 125.00,
+        "plantCategory": "exterior",
+        "description": "Planta de exterior con hojas vibrantes en tonos verdes y amarillos, ideal para añadir color al jardín. Requiere luz indirecta y riego moderado.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Sanciveria Varigado",
+        "images": [],
+        "price": 255.00,
+        "plantCategory": "exterior",
+        "description": "Resistente planta de exterior, conocida como 'Lengua de Suegra', con hojas variegadas en verde y amarillo. Tolerante a la poca luz y requiere bajo mantenimiento.",
+        "sunlight": "Puede tolerar luz indirecta o baja",
+        "WateringModel": "Riego bajo",
+        "CarefulLevel": "Bajo"
+    },
+    {
+        "name": "Tronco de Brasil",
+        "images": [
+            "https://i.ibb.co/7xfPbFv/Tronco-de-Brasil1.png",
+            "https://i.ibb.co/1M5Z8Dw/Tronco-de-Brasil2.png",
+            "https://i.ibb.co/Mf7XZSS/Tronco-de-Brasil3.png"
+        ],
+        "price": 180.00,
+        "plantCategory": "exterior",
+        "description": "Planta de exterior con hojas en forma de lanza, tronco atractivo y requiere luz indirecta.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Buganvilla",
+        "images": [
+            "https://i.ibb.co/2KmG7vs/Buganvilla1.png",
+            "https://i.ibb.co/rbdtnX5/Buganvilla2.png",
+            "https://i.ibb.co/pxZKwd3/Buganvilla3.png"
+        ],
+        "price": 220.00,
+        "plantCategory": "exterior",
+        "description": "Enredadera de exterior con flores llamativas en tonos rosa y rojo. Prefiere luz directa, riego moderado a bajo. Embellece jardines y pérgolas.",
+        "sunlight": "Requiere luz directa",
+        "WateringModel": "Riego moderado a bajo",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Palmera Rubelina 2",
+        "images": [
+            "https://i.ibb.co/y4JSgLT/Palmera-Rubelina-2-1.png",
+            "https://i.ibb.co/k8vNXkT/Palmera-Rubelina-2-2.png",
+            "https://i.ibb.co/86N0hKV/Palmera-Rubelina-2-3.png"
+        ],
+        "price": 285.00,
+        "plantCategory": "exterior",
+        "description": "Palmera de exterior con elegantes hojas y tronco, aportando un toque tropical al paisaje. Requiere luz indirecta, riego moderado. Precio: $285.00.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Philodendron en Maceta",
+        "images": [
+            "https://i.ibb.co/Jng2yPc/Philodendron-en-Maceta1.png",
+            "https://i.ibb.co/3d96F6z/Philodendron-en-Maceta2.png",
+            "https://i.ibb.co/FbPw4mq/Philodendron-en-Maceta3.png"
+        ],
+        "price": 240.00,
+        "plantCategory": "exterior",
+        "description": "Philodendron ideal para exteriores en maceta, con hojas exuberantes y fácil cuidado. Prefiere luz indirecta, riego moderado. Precio: $240.00.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Palmera Viajera",
+        "images": [
+            "https://i.ibb.co/6Z2jRsg/Palmera-Viajera1.png",
+            "https://i.ibb.co/PYN1qTW/Palmera-Viajera2.png",
+            "https://i.ibb.co/C5J2WvQ/Palmera-Viajera3.png"
+        ],
+        "price": 550.00,
+        "plantCategory": "exterior",
+        "description": "Palmera de exterior con hojas exuberantes y tronco esbelto, aportando un aspecto tropical al entorno. Requiere luz indirecta, riego moderado. Precio: $550.00.",
+        "sunlight": "Requiere luz indirecta",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Yuca",
+        "images": [
+            "https://i.ibb.co/7Rtycby/Yuca1.png",
+            "https://i.ibb.co/L5dJc5g/Yuca2.png",
+            "https://i.ibb.co/0cn7tkk/Yuca3.png"
+        ],
+        "price": 190.00,
+        "plantCategory": "exterior",
+        "description": "Yuca de exterior con hojas lanceoladas y aspecto exótico. Adaptable a diversas condiciones de luz y suelo. Requiere riego moderado. Precio: $190.00.",
+        "sunlight": "Adaptable a diferentes condiciones de luz",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    },
+    {
+        "name": "Tuja Dorada",
+        "images": [
+            "https://i.ibb.co/1LZJWZV/Tuja-Dorada1.png",
+            "https://i.ibb.co/yqqBZLB/Tuja-Dorada2.png",
+            "https://i.ibb.co/K2Z2J1B/Tuja-Dorada3.png"
+        ],
+        "price": 295.00,
+        "plantCategory": "exterior",
+        "description": "Tuja Dorada, una conífera de exterior con follaje dorado brillante. Aporta un toque de color y estructura al jardín. Prefiere luz directa y riego moderado. Precio: $295.00.",
+        "sunlight": "Requiere luz directa",
+        "WateringModel": "Riego moderado",
+        "CarefulLevel": "Moderado"
+    }
+]
