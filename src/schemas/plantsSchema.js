@@ -23,7 +23,9 @@ const plantsSchema = new Schema({
     },
     sunlight: {
         type: String,
-        enum: ['sol', 'sombra parcial', 'sombra', 'pleno sol'],
+        enum: ['sol', 'sombra parcial', 'sombra', 'pleno sol', 'Requiere luz indirecta',
+            'Requiere luz directa', 'Requiere luz brillante pero indirecta', 'Puede tolerar luz indirecta o baja',
+            'Adaptable a diferentes condiciones de luz'],
     },
     plantsCategory: {
         type: Schema.Types.ObjectId,

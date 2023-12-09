@@ -13,8 +13,8 @@ plantsRoute.get('/all', getAllPlants);
 // Create Plant --> OK
 plantsRoute.post('/create', createPlant);
 
-// Delete Plant --> Pendiente
-plantsRoute.delete('/:id', deletePlantHandler);
+// Delete Plant --> OK
+plantsRoute.delete('/delete/', deletePlantHandler);
 
 
 // Get Plant by Id  --> Pendiente
